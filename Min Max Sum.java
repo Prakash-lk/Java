@@ -33,7 +33,7 @@ public class Main{
             arr[i]=in.nextLong();
         }
         Arrays.sort(arr);
-        int min=0,max=0;
+        long min=0,max=0;
         for(int i=0;i<4;i++)
         {
             min+=arr[i];
