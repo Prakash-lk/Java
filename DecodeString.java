@@ -1,7 +1,7 @@
-/* Eg 1: Input: a1b10
-         Output: abbbbbbbbbb
-Eg: 2: Input: b3c6d15
-       Output: bbbccccccddddddddddddddd */
+/* Eg 1: Input: a1b5
+         Output: abbbbb
+Eg: 2: Input: b3c6d1
+       Output: bbbccccccd */
        
 import java.util.*;
 public class Main
